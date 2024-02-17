@@ -1,0 +1,18 @@
+
+-----------------------------------
+
+RRN LSTM: INTENCIÓN DE MOVIMIENTO
+Promedio Global de Métricas
+
+-----------------------------------
+
+* Accuracy: 0.7419
+* Recall Macro: 0.7548
+* F1 Macro: 0.7320
+* Precision:
+  * Clase "MouseUp": 0.9205
+  * Clase "MouseDown": 0.5648
+  * Clase "MouseLeft": 0.9159
+  * Clase "MouseRight": 0.5832
+
+-----------------------------------

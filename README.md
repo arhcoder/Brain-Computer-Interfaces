@@ -1,0 +1,2 @@
+# Brain Computer Interfaces
+## 🧠 Research on Machine Learning and Neural Network techniques applied to the classification of encephalographic signals regarding concept evocation and movement intention.

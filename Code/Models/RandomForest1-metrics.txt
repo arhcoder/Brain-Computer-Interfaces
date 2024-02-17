@@ -1,0 +1,466 @@
+Alex1:
+* Accuracy: 0.6593
+* Recall:
+    * Clase 0: 0.7946
+    * Clase 1: 0.6458
+    * Clase 2: 0.7153
+    * Clase 3: 0.6627
+* F1:
+    * Clase 0: 0.7727
+    * Clase 1: 0.6020
+    * Clase 2: 0.6359
+    * Clase 3: 0.6549
+* Precision:
+    * Clase 0: 0.7946
+    * Clase 1: 0.5833
+    * Clase 2: 0.6687
+    * Clase 3: 0.6583
+Andy1:
+* Accuracy: 0.6667
+* Recall:
+    * Clase 0: 0.6339
+    * Clase 1: 0.6736
+    * Clase 2: 0.7708
+    * Clase 3: 0.6306
+* F1:
+    * Clase 0: 0.6333
+    * Clase 1: 0.6303
+    * Clase 2: 0.7237
+    * Clase 3: 0.6326
+* Precision:
+    * Clase 0: 0.6417
+    * Clase 1: 0.6174
+    * Clase 2: 0.7500
+    * Clase 3: 0.6583
+Bere1:
+* Accuracy: 0.6792
+* Recall:
+    * Clase 0: 0.6937
+    * Clase 1: 0.6562
+    * Clase 2: 0.6528
+    * Clase 3: 0.7889
+* F1:
+    * Clase 0: 0.6704
+    * Clase 1: 0.6152
+    * Clase 2: 0.6131
+    * Clase 3: 0.7812
+* Precision:
+    * Clase 0: 0.6667
+    * Clase 1: 0.5938
+    * Clase 2: 0.6333
+    * Clase 3: 0.7857
+dad1:
+* Accuracy: 0.6239
+* Recall:
+    * Clase 0: 0.6333
+    * Clase 1: 0.4861
+    * Clase 2: 0.5357
+    * Clase 3: 0.5062
+* F1:
+    * Clase 0: 0.5910
+    * Clase 1: 0.4598
+    * Clase 2: 0.5385
+    * Clase 3: 0.5003
+* Precision:
+    * Clase 0: 0.5782
+    * Clase 1: 0.4420
+    * Clase 2: 0.5417
+    * Clase 3: 0.5045
+Daniela1:
+* Accuracy: 0.8519
+* Recall:
+    * Clase 0: 0.9286
+    * Clase 1: 0.8611
+    * Clase 2: 0.8542
+    * Clase 3: 0.8571
+* F1:
+    * Clase 0: 0.9083
+    * Clase 1: 0.8227
+    * Clase 2: 0.8375
+    * Clase 3: 0.8365
+* Precision:
+    * Clase 0: 0.9167
+    * Clase 1: 0.8604
+    * Clase 2: 0.8330
+    * Clase 3: 0.8875
+Diego2do1:
+* Accuracy: 0.7556
+* Recall:
+    * Clase 0: 0.6696
+    * Clase 1: 0.7604
+    * Clase 2: 0.8310
+    * Clase 3: 0.7302
+* F1:
+    * Clase 0: 0.6658
+    * Clase 1: 0.7427
+    * Clase 2: 0.8198
+    * Clase 3: 0.6889
+* Precision:
+    * Clase 0: 0.6722
+    * Clase 1: 0.7447
+    * Clase 2: 0.8185
+    * Clase 3: 0.6792
+Eloy1:
+* Accuracy: 0.7852
+* Recall:
+    * Clase 0: 0.7054
+    * Clase 1: 0.7326
+    * Clase 2: 0.9444
+    * Clase 3: 0.7917
+* F1:
+    * Clase 0: 0.7054
+    * Clase 1: 0.7053
+    * Clase 2: 0.9243
+    * Clase 3: 0.7917
+* Precision:
+    * Clase 0: 0.7054
+    * Clase 1: 0.7036
+    * Clase 2: 0.9187
+    * Clase 3: 0.7917
+Fer1:
+* Accuracy: 0.5660
+* Recall:
+    * Clase 0: 0.6806
+    * Clase 1: 0.6607
+    * Clase 2: 0.5722
+    * Clase 3: 0.6562
+* F1:
+    * Clase 0: 0.5659
+    * Clase 1: 0.6273
+    * Clase 2: 0.5284
+    * Clase 3: 0.6513
+* Precision:
+    * Clase 0: 0.6420
+    * Clase 1: 0.6250
+    * Clase 2: 0.5615
+    * Clase 3: 0.6857
+Gus1:
+* Accuracy: 0.6516
+* Recall:
+    * Clase 0: 0.7321
+    * Clase 1: 0.6627
+    * Clase 2: 0.7431
+    * Clase 3: 0.6708
+* F1:
+    * Clase 0: 0.7093
+    * Clase 1: 0.6339
+    * Clase 2: 0.6905
+    * Clase 3: 0.6606
+* Precision:
+    * Clase 0: 0.6949
+    * Clase 1: 0.6278
+    * Clase 2: 0.7417
+    * Clase 3: 0.7000
+Hiram1:
+* Accuracy: 0.5481
+* Recall:
+    * Clase 0: 0.5982
+    * Clase 1: 0.5403
+    * Clase 2: 0.5466
+    * Clase 3: 0.5476
+* F1:
+    * Clase 0: 0.5807
+    * Clase 1: 0.5021
+    * Clase 2: 0.5402
+    * Clase 3: 0.5432
+* Precision:
+    * Clase 0: 0.5764
+    * Clase 1: 0.4768
+    * Clase 2: 0.5757
+    * Clase 3: 0.5393
+Isabela1:
+* Accuracy: 0.7778
+* Recall:
+    * Clase 0: 0.8929
+    * Clase 1: 0.7049
+    * Clase 2: 0.8264
+    * Clase 3: 0.8294
+* F1:
+    * Clase 0: 0.8636
+    * Clase 1: 0.6766
+    * Clase 2: 0.8030
+    * Clase 3: 0.8086
+* Precision:
+    * Clase 0: 0.8929
+    * Clase 1: 0.6647
+    * Clase 2: 0.8155
+    * Clase 3: 0.8193
+Jorge2do1:
+* Accuracy: 0.7852
+* Recall:
+    * Clase 0: 0.8036
+    * Clase 1: 0.7049
+    * Clase 2: 0.8819
+    * Clase 3: 0.8194
+* F1:
+    * Clase 0: 0.8036
+    * Clase 1: 0.6766
+    * Clase 2: 0.8767
+    * Clase 3: 0.8206
+* Precision:
+    * Clase 0: 0.8036
+    * Clase 1: 0.6647
+    * Clase 2: 0.8750
+    * Clase 3: 0.8250
+joul1:
+* Accuracy: 0.6667
+* Recall:
+    * Clase 0: 0.7946
+    * Clase 1: 0.6424
+    * Clase 2: 0.6500
+    * Clase 3: 0.7103
+* F1:
+    * Clase 0: 0.7727
+    * Clase 1: 0.5892
+    * Clase 2: 0.5580
+    * Clase 3: 0.6880
+* Precision:
+    * Clase 0: 0.7946
+    * Clase 1: 0.5687
+    * Clase 2: 0.5057
+    * Clase 3: 0.6722
+Juliett1:
+* Accuracy: 0.5991
+* Recall:
+    * Clase 0: 0.6295
+    * Clase 1: 0.6071
+    * Clase 2: 0.7500
+    * Clase 3: 0.6021
+* F1:
+    * Clase 0: 0.5960
+    * Clase 1: 0.5521
+    * Clase 2: 0.6176
+    * Clase 3: 0.6189
+* Precision:
+    * Clase 0: 0.5708
+    * Clase 1: 0.5126
+    * Clase 2: 0.5769
+    * Clase 3: 0.6429
+Meli1:
+* Accuracy: 0.8296
+* Recall:
+    * Clase 0: 0.8036
+    * Clase 1: 0.8299
+    * Clase 2: 0.9087
+    * Clase 3: 0.8571
+* F1:
+    * Clase 0: 0.8036
+    * Clase 1: 0.7956
+    * Clase 2: 0.8922
+    * Clase 3: 0.8365
+* Precision:
+    * Clase 0: 0.8036
+    * Clase 1: 0.8036
+    * Clase 2: 0.8875
+    * Clase 3: 0.8875
+Meza1:
+* Accuracy: 0.4060
+* Recall:
+    * Clase 0: 0.3958
+    * Clase 1: 0.2698
+    * Clase 2: 0.5405
+    * Clase 3: 0.3333
+* F1:
+    * Clase 0: 0.3905
+    * Clase 1: 0.2463
+    * Clase 2: 0.4826
+    * Clase 3: 0.3015
+* Precision:
+    * Clase 0: 0.3882
+    * Clase 1: 0.2292
+    * Clase 2: 0.5521
+    * Clase 3: 0.2833
+mom1:
+* Accuracy: 0.6910
+* Recall:
+    * Clase 0: 0.7277
+    * Clase 1: 0.6778
+    * Clase 2: 0.7417
+    * Clase 3: 0.7639
+* F1:
+    * Clase 0: 0.7157
+    * Clase 1: 0.5949
+    * Clase 2: 0.6905
+    * Clase 3: 0.7624
+* Precision:
+    * Clase 0: 0.7111
+    * Clase 1: 0.6146
+    * Clase 2: 0.7431
+    * Clase 3: 0.7634
+Montse1:
+* Accuracy: 0.7407
+* Recall:
+    * Clase 0: 0.6964
+    * Clase 1: 0.6736
+    * Clase 2: 0.8667
+    * Clase 3: 0.8016
+* F1:
+    * Clase 0: 0.6818
+    * Clase 1: 0.6405
+    * Clase 2: 0.8501
+    * Clase 3: 0.7814
+* Precision:
+    * Clase 0: 0.6964
+    * Clase 1: 0.6286
+    * Clase 2: 0.8452
+    * Clase 3: 0.7750
+Oscar1:
+* Accuracy: 0.5080
+* Recall:
+    * Clase 0: 0.5729
+    * Clase 1: 0.4688
+    * Clase 2: 0.5417
+    * Clase 3: 0.5548
+* F1:
+    * Clase 0: 0.5122
+    * Clase 1: 0.3991
+    * Clase 2: 0.5335
+    * Clase 3: 0.5392
+* Precision:
+    * Clase 0: 0.4866
+    * Clase 1: 0.3708
+    * Clase 2: 0.5528
+    * Clase 3: 0.5458
+Padilla1:
+* Accuracy: 0.8296
+* Recall:
+    * Clase 0: 0.8661
+    * Clase 1: 0.7951
+    * Clase 2: 0.8819
+    * Clase 3: 0.8571
+* F1:
+    * Clase 0: 0.8590
+    * Clase 1: 0.7806
+    * Clase 2: 0.8767
+    * Clase 3: 0.8365
+* Precision:
+    * Clase 0: 0.8583
+    * Clase 1: 0.7708
+    * Clase 2: 0.8750
+    * Clase 3: 0.8875
+pep1:
+* Accuracy: 0.6240
+* Recall:
+    * Clase 0: 0.4862
+    * Clase 1: 0.5551
+    * Clase 2: 0.6432
+    * Clase 3: 0.5938
+* F1:
+    * Clase 0: 0.4862
+    * Clase 1: 0.5288
+    * Clase 2: 0.6152
+    * Clase 3: 0.5710
+* Precision:
+    * Clase 0: 0.4862
+    * Clase 1: 0.5369
+    * Clase 2: 0.6306
+    * Clase 3: 0.5687
+Raul2do1:
+* Accuracy: 0.7426
+* Recall:
+    * Clase 0: 0.7634
+    * Clase 1: 0.8333
+    * Clase 2: 0.8250
+    * Clase 3: 0.7639
+* F1:
+    * Clase 0: 0.7569
+    * Clase 1: 0.7619
+    * Clase 2: 0.7308
+    * Clase 3: 0.7624
+* Precision:
+    * Clase 0: 0.7535
+    * Clase 1: 0.8175
+    * Clase 2: 0.8250
+    * Clase 3: 0.7634
+Roman1:
+* Accuracy: 0.7536
+* Recall:
+    * Clase 0: 0.6937
+    * Clase 1: 0.7812
+    * Clase 2: 0.7889
+    * Clase 3: 0.8087
+* F1:
+    * Clase 0: 0.6704
+    * Clase 1: 0.7491
+    * Clase 2: 0.7750
+    * Clase 3: 0.8116
+* Precision:
+    * Clase 0: 0.6667
+    * Clase 1: 0.7396
+    * Clase 2: 0.7842
+    * Clase 3: 0.8194
+Valeria1:
+* Accuracy: 0.5714
+* Recall:
+    * Clase 0: 0.6071
+    * Clase 1: 0.6905
+    * Clase 2: 0.6250
+    * Clase 3: 0.5274
+* F1:
+    * Clase 0: 0.5660
+    * Clase 1: 0.6875
+    * Clase 2: 0.5746
+    * Clase 3: 0.5464
+* Precision:
+    * Clase 0: 0.5333
+    * Clase 1: 0.6905
+    * Clase 2: 0.5625
+    * Clase 3: 0.5714
+Yissel1:
+* Accuracy: 0.8148
+* Recall:
+    * Clase 0: 0.9018
+    * Clase 1: 0.7326
+    * Clase 2: 0.8185
+    * Clase 3: 0.8750
+* F1:
+    * Clase 0: 0.9018
+    * Clase 1: 0.7053
+    * Clase 2: 0.8046
+    * Clase 3: 0.8810
+* Precision:
+    * Clase 0: 0.9018
+    * Clase 1: 0.7036
+    * Clase 2: 0.8214
+    * Clase 3: 0.9375
+Yolanda1:
+* Accuracy: 0.7497
+* Recall:
+    * Clase 0: 0.7946
+    * Clase 1: 0.7639
+    * Clase 2: 0.7893
+    * Clase 3: 0.7917
+* F1:
+    * Clase 0: 0.7917
+    * Clase 1: 0.6888
+    * Clase 2: 0.7212
+    * Clase 3: 0.7787
+* Precision:
+    * Clase 0: 0.8000
+    * Clase 1: 0.7723
+    * Clase 2: 0.7784
+    * Clase 3: 0.7708
+
+
+--------------------------------------
+
+RANDOM FOREST: EVOCACIÓN DE CONCEPTO
+Promedio Global de Métricas
+
+--------------------------------------
+
+* Accuracy: 0.6876
+* Recall Macro: 0.6900
+* F1 Macro: 0.6615
+* Precision:
+  * Clase "Árbol": 0.6937
+  * Clase "Cuaderno": 0.6294
+  * Clase "Computadora": 0.7182
+  * Clase "Perro": 0.7086
+
+--------------------------------------
+
+* Accuracy más alto: 0.8519
+* Accuracy más bajo: 0.4060
+
+--------------------------------------

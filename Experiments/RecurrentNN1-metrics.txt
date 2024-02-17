@@ -1,0 +1,16 @@
+
+---------------------------------
+
+RRN LSTM: EVOCACIÓN DE CONCEPTO
+Promedio Global de Métricas
+
+---------------------------------
+
+* Accuracy: 0.7477
+* Recall Macro: 0.7629
+* F1 Macro: 0.7389
+* Precision:
+  * Clase "Árbol": 0.9526
+  * Clase "Cuaderno": 0.5809
+  * Clase "Computadora": 0.9499
+  * Clase "Perro": 0.5628
